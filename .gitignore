@@ -1,5 +1,9 @@
 *.iml
 .gradle
+.idea
+gradlew
+gradlew.*
+/app/proguard-rules.pro
 /local.properties
 /.idea/caches
 /.idea/libraries
