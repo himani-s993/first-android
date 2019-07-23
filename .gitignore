@@ -1,6 +1,7 @@
 *.iml
 .gradle
 .idea
+.idea/*
 gradlew
 gradlew.*
 /app/proguard-rules.pro
